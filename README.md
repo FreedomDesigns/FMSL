@@ -11,6 +11,9 @@ messages/data to either log to CLI [Command-Line Interface] or/and to log file.
 
 **[Download](https://github.com/FreedomDesigns/FMSL/releases/latest)**
 
+ **Example of use**
+![alt text](https://i.gyazo.com/3f81ebbb4eda9d96ffca207bbee11977.png "Example")
+
 Threads
 =================================================================================
 
